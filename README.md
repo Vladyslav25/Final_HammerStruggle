@@ -1,5 +1,7 @@
 # Final_HammerStruggle | 5.2020, 15 Monate
 
+Leider ist die LFS bei GitHub zu klein um den Sourcecode hier hoch zu laden. Daher kann der Sourcecode über folgenden Link runtergeladen werden: https://drive.google.com/drive/folders/1XUxTZVD2xW_Cy4JFb78SrJ_IcbsPo3En?usp=sharing
+
 Was habe ich gelernt:
  - Unreal Engine 4
   - Blueprints
